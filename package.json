@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-homework-01v2",
+  "name": "nodejs-homework-01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,18 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TatianaChepovaya/nodejs-homework-01V2.git"
+    "url": "git+https://github.com/TatianaChepovaya/nodejs-homework-01.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TatianaChepovaya/nodejs-homework-01V2/issues"
+    "url": "https://github.com/TatianaChepovaya/nodejs-homework-01/issues"
   },
-  "homepage": "https://github.com/TatianaChepovaya/nodejs-homework-01V2#readme",
+  "homepage": "https://github.com/TatianaChepovaya/nodejs-homework-01#readme",
   "dependencies": {
-    "yargs": "^17.5.1"
+    "yargs": "^17.3.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "css-loader": "^6.7.1",
+    "nodemon": "^2.0.15",
+    "ts-loader": "^9.4.0"
   }
 }
